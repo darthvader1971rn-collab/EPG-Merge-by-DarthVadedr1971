@@ -1,0 +1,20 @@
+# Baza pamięci podręcznej (będzie żyła wyłącznie w GitHub Actions Cache i u Ciebie lokalnie)
+epg_cache.db
+
+# Ignorujemy nieskompresowane EPG - transfer ma je całkowicie pomijać
+master_epg.xml
+
+# Pliki środowiska Pythona
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Wirtualne środowiska
+.env
+.venv
+venv/
+ENV/
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db

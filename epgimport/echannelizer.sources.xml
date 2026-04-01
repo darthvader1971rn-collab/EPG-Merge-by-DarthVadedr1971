@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sources>
+  <sourcecat sourcecatname="E-Channelizer XMLTV">
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/epg-share.poland.xml">
+      <description>[EC] EPG Share - Poland</description>
+      <url><![CDATA[http://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz]]></url>
+    </source>
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/rytec.polska-dodatkowy.xml">
+      <description>[EC] Rytec - Polska - Dodatkowy</description>
+      <url><![CDATA[http://www.xmltvepg.nl/rytecPL_Misc.xz]]></url>
+      <url><![CDATA[http://epgspot.com/rytec_epg/rytecPL_Misc.xz]]></url>
+      <url><![CDATA[http://rytecepg.wanwizard.eu/rytecPL_Misc.xz]]></url>
+      <url><![CDATA[http://rytecepg.dyndns.tv/epg_data/rytecPL_Misc.xz]]></url>
+      <url><![CDATA[http://epg.vuplus-community.net/rytecPL_Misc.xz]]></url>
+    </source>
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/ovh.ovh-archiwum.xml">
+      <description>[EC] OVH - OVH Archiwum</description>
+      <url><![CDATA[http://epg.ovh/plar.gz]]></url>
+    </source>
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/otopay.otopayy.xml">
+      <description>[EC] OtoPay - Otopayy</description>
+      <url><![CDATA[http://iptv.otopay.io/guide.xml]]></url>
+    </source>
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/azman.podstawowy.xml">
+      <description>[EC] Azman - Podstawowy</description>
+      <url><![CDATA[http://www.topolowa4.pl/azman_basic.xml.xz]]></url>
+    </source>
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/onet-2.onety-test.xml">
+      <description>[EC] Onet 2 - Onety TEST</description>
+      <url><![CDATA[http://raw.githubusercontent.com/darthvader1971rn-collab/EPG-Test/main/Output/onet_test_full.xml.gz]]></url>
+    </source>
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/rytec.polska-sportkino.xml">
+      <description>[EC] Rytec - Polska - Sport/Kino</description>
+      <url><![CDATA[http://www.xmltvepg.nl/rytecPL_SportMovies.xz]]></url>
+      <url><![CDATA[http://epgspot.com/rytec_epg/rytecPL_SportMovies.xz]]></url>
+      <url><![CDATA[http://rytecepg.wanwizard.eu/rytecPL_SportMovies.xz]]></url>
+      <url><![CDATA[http://rytecepg.dyndns.tv/epg_data/rytecPL_SportMovies.xz]]></url>
+      <url><![CDATA[http://epg.vuplus-community.net/rytecPL_SportMovies.xz]]></url>
+    </source>
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/kcccam.kcccam.xml">
+      <description>[EC] Kcccam - Kcccam</description>
+      <url><![CDATA[http://x96.us:8880/xmltv.php?username=Malcolm_Server&password=Svipha16162]]></url>
+    </source>
+    <source type="gen_xmltv" nocheck="1" channels="/etc/epgimport/echannelizer.channels/rytec.polska-podstawowy.xml">
+      <description>[EC] Rytec - Polska - Podstawowy</description>
+      <url><![CDATA[http://www.xmltvepg.nl/rytecPL_Basic.xz]]></url>
+      <url><![CDATA[http://epgspot.com/rytec_epg/rytecPL_Basic.xz]]></url>
+      <url><![CDATA[http://rytecepg.wanwizard.eu/rytecPL_Basic.xz]]></url>
+      <url><![CDATA[http://rytecepg.dyndns.tv/epg_data/rytecPL_Basic.xz]]></url>
+      <url><![CDATA[http://epg.vuplus-community.net/rytecPL_Basic.xz]]></url>
+    </source>
+  </sourcecat>
+</sources>

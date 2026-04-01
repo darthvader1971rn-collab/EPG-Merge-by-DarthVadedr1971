@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<sources>
+ <sourcecat sourcecatname="M3UIPTV plugin">
+  <source type="gen_xmltv" nocheck="1" dynamic-provider="__" channels="/etc/epgimport/m3uiptv.__.channels.xml">
+   <description><![CDATA[OTOPAY TV]]></description>
+   <url><![CDATA[https://iptv.otopay.io/guide.xml]]></url>
+  </source>
+ </sourcecat>
+</sources>
