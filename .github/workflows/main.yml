@@ -1,0 +1,45 @@
+name: Generate Master EPG
+
+on:
+  schedule:
+    # 01:00 UTC to 03:00 rano w Polsce (czas letni) lub 02:00 rano (czas zimowy)
+    - cron: '0 1 * * *'
+  workflow_dispatch: # Pozwala ręcznie odpalić skrypt z panelu Actions
+
+jobs:
+  build_epg:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Set up Python 3.12
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.12'
+
+    - name: Install dependencies
+      run: pip install requests
+
+    - name: Cache EPG SQLite Database
+      uses: actions/cache@v4
+      with:
+        path: epg_cache.db
+        key: epg-db-${{ github.run_id }}
+        restore-keys: |
+          epg-db-
+
+    - name: Run EPG Master (Headless Mode)
+      run: python epg_master.py --cli
+
+    - name: Commit and Push generated EPG
+      run: |
+        git config --global user.name "EPG-Master-Bot"
+        git config --global user.email "bot@epgmaster.local"
+        git add master_epg.xml.gz
+        git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update Master EPG [03:00 Local Time]"
+        git push
