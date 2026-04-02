@@ -213,12 +213,14 @@ class EPGProcessor:
         tv = ET.Element("tv", {"generator-info-name": "EPG Master Python Script"})
         
         for ch in channels:
-            ch_elem = ET.SubElement(tv, "channel", {"id": ch[0]})
+            safe_id = ch[0].replace(" ", "") 
+            ch_elem = ET.SubElement(tv, "channel", {"id": safe_id})
             ET.SubElement(ch_elem, "display-name").text = ch[1]
             if ch[2]: ET.SubElement(ch_elem, "icon", {"src": ch[2]})
             
         for pr in programs:
-            pr_elem = ET.SubElement(tv, "programme", {"channel": pr[1], "start": pr[2], "stop": pr[3]})
+            safe_id = pr[1].replace(" ", "")
+            pr_elem = ET.SubElement(tv, "programme", {"channel": safe_id, "start": pr[2], "stop": pr[3]})
             ET.SubElement(pr_elem, "title").text = pr[6] or "Brak tytułu"
             if pr[7]: ET.SubElement(pr_elem, "desc").text = pr[7]
             if pr[8]: ET.SubElement(pr_elem, "date").text = pr[8]
@@ -251,7 +253,8 @@ class EPGProcessor:
         output_path = os.path.join(target_dir, "master_epg.xml.gz")
         
         with gzip.open(output_path, 'wb') as f:
-            tree.write(f, encoding='utf-8', xml_declaration=True)
+            f.write(b'<?xml version="1.0" encoding="UTF-8"?>\n')
+            tree.write(f, encoding='utf-8', xml_declaration=False)
             
         self.log(f"Zakończono sukcesem! Zapisano do: {output_path}")
 
