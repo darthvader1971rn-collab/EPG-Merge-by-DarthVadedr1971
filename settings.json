@@ -2,10 +2,10 @@
     "urls": [
         "http://epg.ovh/plar.gz",
         "https://epg.ovh/pltv.gz",
+        "http://iptv.otopay.io/guide.xml",
         "http://x96.us:8880/xmltv.php?username=Malcolm_Server&password=Svipha16162",
         "http://epgshare01.online/epgshare01/epg_ripper_PL1.xml.gz",
         "http://www.xmltvepg.nl/rytecPL_Misc.xz",
-        "http://iptv.otopay.io/guide.xml",
         "http://www.topolowa4.pl/azman_basic.xml.xz",
         "http://www.xmltvepg.nl/rytecPL_SportMovies.xz",
         "http://www.xmltvepg.nl/rytecPL_Basic.xz",
@@ -21,7 +21,7 @@
         "https://epg.ovh/logo.zip"
     ],
     "langs": {
-        "pl": false,
+        "pl": true,
         "en": false,
         "de": false
     },
