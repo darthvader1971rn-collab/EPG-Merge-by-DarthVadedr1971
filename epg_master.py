@@ -244,7 +244,11 @@ class EPGProcessor:
         if hasattr(ET, 'indent'):
             ET.indent(tree, space="  ", level=0)
             
-        output_path = os.path.join(self.output_dir, "master_epg.xml.gz")
+        # Wymuszenie zapisu do folderu Output
+        target_dir = os.path.join(self.output_dir, "Output") if os.path.basename(self.output_dir) != "Output" else self.output_dir
+        os.makedirs(target_dir, exist_ok=True)
+        
+        output_path = os.path.join(target_dir, "master_epg.xml.gz")
         
         with gzip.open(output_path, 'wb') as f:
             tree.write(f, encoding='utf-8', xml_declaration=True)
