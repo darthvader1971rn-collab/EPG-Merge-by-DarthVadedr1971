@@ -1,0 +1,489 @@
+=============================
+ROZSZERZENIE / JĘZYK: .PL
+=============================
+Nazwa: 1+1 International | ID: 1plus1International.pl
+Nazwa: 13 Ulica | ID: 13Ulica.pl
+Nazwa: 13.tv HD | ID: 13Tv.pl
+Nazwa: 2x2 HD | ID: 2x2.pl
+Nazwa: 360TuneBox HD | ID: 360TuneBox.pl
+Nazwa: 4FUN.TV | ID: 4FunTv.pl
+Nazwa: 4Fun Dance | ID: 4FunDance.pl
+Nazwa: 4Fun Kids | ID: 4FunKids.pl
+Nazwa: ABC 2 | ID: TVPABC2.pl
+Nazwa: AMC HD | ID: AMC.pl
+Nazwa: AXN Black | ID: AXNBlack.pl
+Nazwa: AXN HD | ID: AXN.pl
+Nazwa: AXN Spin HD | ID: AXNSpin.pl
+Nazwa: AXN White | ID: AXNWhite.pl
+Nazwa: ActiveFamily | ID: ActiveFamily.pl
+Nazwa: Adult Channel | ID: AdultChannel.pl
+Nazwa: Adventure | ID: Adventure.pl
+Nazwa: Al Jazeera HD | ID: AlJazeera.pl
+Nazwa: Ale Kino! | ID: AleKino.pl
+Nazwa: Alfa TVP | ID: AlfaTVP.pl
+Nazwa: Andromeda | ID: Andromeda.pl
+Nazwa: Animal Planet HD | ID: AnimalPlanet.pl
+Nazwa: Antena HD | ID: Antena.pl
+Nazwa: Arirang TV | ID: ArirangTv.pl
+Nazwa: Arte HD | ID: Arte.pl
+Nazwa: BBC CBeebies | ID: BBCCBeebies.pl
+Nazwa: BBC Earth | ID: BBCEarth.pl
+Nazwa: BBC Fisrt | ID: BBCFirst.pl
+Nazwa: BBC Lifestyle | ID: BBCLifestyle.pl
+Nazwa: BBC News | ID: BBCNews.pl
+Nazwa: BBC-Brit | ID: BBCBrit.pl
+Nazwa: Baby TV | ID: BabyTv.pl
+Nazwa: Bajka TV | ID: BajkaTV.pl
+Nazwa: Belsat TV | ID: BelsatTv.pl
+Nazwa: Biznes24 HD | ID: Biznes24.pl
+Nazwa: BjgTjme | ID: BjgTjme.rtv.pl
+Nazwa: Bloomberg (ang.) | ID: Bloomberg.pl
+Nazwa: Blue Hustler | ID: BlueHustler.pl
+Nazwa: Bollywood HD | ID: Bollywood.pl
+Nazwa: Bonanza | ID: Bonanza.pl
+Nazwa: Brazzers TV | ID: BrazzersTv.pl
+Nazwa: CANAL+ 1 HD | ID: C+1.pl
+Nazwa: CANAL+ 360 HD | ID: C+360.pl
+Nazwa: CANAL+ 4K Ultra HD | ID: C+4KUltra.pl
+Nazwa: CANAL+ DOKUMENT HD | ID: C+Dokument.pl
+Nazwa: CANAL+ DOMO HD | ID: C+Domo.pl
+Nazwa: CANAL+ EXTRA 1 | ID: C+Extra1.pl
+Nazwa: CANAL+ EXTRA 2 | ID: C+Extra2.pl
+Nazwa: CANAL+ EXTRA 3 | ID: C+Extra3.pl
+Nazwa: CANAL+ EXTRA 4 | ID: C+Extra4.pl
+Nazwa: CANAL+ Film HD | ID: C+Film.pl
+Nazwa: CANAL+ KUCHNIA HD | ID: C+Kuchnia.pl
+Nazwa: CANAL+ NOW | ID: C+Now.pl
+Nazwa: CANAL+ PREMIUM HD | ID: C+Premium.pl
+Nazwa: CANAL+ Seriale HD | ID: C+Seriale.pl
+Nazwa: CANAL+ Sport 2 HD | ID: C+Sport2.pl
+Nazwa: CANAL+ Sport 3 HD | ID: C+Sport3.pl
+Nazwa: CANAL+ Sport 4 HD | ID: C+Sport4.pl
+Nazwa: CANAL+ Sport 5 HD | ID: C+Sport5.pl
+Nazwa: CANAL+ Sport HD | ID: C+Sport.pl
+Nazwa: CI Polsat HD | ID: CIPolsat.pl
+Nazwa: CNBC | ID: CNBC.pl
+Nazwa: CNN | ID: CNN.pl
+Nazwa: CTV - DLA CIEBIE TV | ID: CTVDlaCiebieTv.pl
+Nazwa: Car City Adventures | ID: CarCityAdventures.rtv.pl
+Nazwa: Cartoon-Network | ID: CartoonNetwork.pl
+Nazwa: Cartoonito HD | ID: Cartoonito.pl
+Nazwa: Chłopaki do wzięcia | ID: ChlopakiDoWziecia.pl
+Nazwa: Cinemax HD | ID: Cinemax.pl
+Nazwa: Cinemax2 HD | ID: Cinemax2.pl
+Nazwa: Classical Harmony | ID: ClassicalHarmony.pl
+Nazwa: Clubbing TV | ID: ClubbingTV.pl
+Nazwa: Comedy Central Polska | ID: ComedyCentral.pl
+Nazwa: Comedy Channel Extra | ID: ComedyChannelExtra.pl
+Nazwa: Current Time | ID: CurrentTime.pl
+Nazwa: DELUXE MUSIC | ID: DeluxeMusic.pl
+Nazwa: DTX HD | ID: TurboXtra.pl
+Nazwa: DW | ID: DWEnglish.pl
+Nazwa: Da Vinci HD | ID: DaVinci.pl
+Nazwa: Daleko od noszy | ID: DalekoOdNoszy.pl
+Nazwa: Dami Skarżysko-Kamienna | ID: DamiTv.pl
+Nazwa: DayStar | ID: DayStarTV.pl
+Nazwa: Defiance | ID: Defiance.pl
+Nazwa: Deluxe Lounge | ID: DeluxeLounge.rtv.pl
+Nazwa: Didaskalia | ID: DidaskaliaTv.pl
+Nazwa: Discovery | ID: Discovery.pl
+Nazwa: Discovery Historia | ID: DiscoveryHistoria.pl
+Nazwa: Discovery Life | ID: DiscoveryLife.pl
+Nazwa: Discovery Science HD | ID: Science.pl
+Nazwa: Disney Channel | ID: DisneyChannel.pl
+Nazwa: Disney Jr | ID: DisneyJr.pl
+Nazwa: Disney XD | ID: DisneyXD.pl
+Nazwa: Dlaczego ja? | ID: DlaczegoJa.pl
+Nazwa: DocuBox HD | ID: Docubox.pl
+Nazwa: Dolce Vita TV HD | ID: DolceVitaTV.pl
+Nazwa: Dorcel TV | ID: DorcelTv.pl
+Nazwa: Dorcel XXX | ID: DorcelXXX.pl
+Nazwa: Dr. Quinn | ID: DrQuinn.pl
+Nazwa: Drużyna A | ID: DruzynaA.pl
+Nazwa: DuckTV HD | ID: DuckTv.pl
+Nazwa: DuckTV plus | ID: DuckTvPlus.pl
+Nazwa: E! Entertainment | ID: E!.pl
+Nazwa: E-SPORT HD | ID: E-Sport.pl
+Nazwa: EWTN Polska | ID: EWTNPolska.pl
+Nazwa: Echo 24 | ID: Echo24.pl
+Nazwa: Eleven Sports 1 | ID: ElevenSports1.pl
+Nazwa: Eleven Sports 1 4K | ID: ElevenSports1_4K.pl
+Nazwa: Eleven Sports 2 | ID: ElevenSports2.pl
+Nazwa: Eleven Sports 3 | ID: ElevenSports3.pl
+Nazwa: Eleven Sports 4 | ID: ElevenSports4.pl
+Nazwa: English Club TV HD | ID: EnglishClubTv.pl
+Nazwa: Epic Drama HD | ID: EpicDrama.pl
+Nazwa: Eska Rock TV | ID: EskaRockTv.pl
+Nazwa: Eska TV Extra HD | ID: EskaTvExtra.pl
+Nazwa: Eska TV HD | ID: EskaTv.pl
+Nazwa: Eureka | ID: Eureka.pl
+Nazwa: Eurochannel | ID: Eurochannel.pl
+Nazwa: Euronews HD | ID: Euronews.pl
+Nazwa: Euronews PL | ID: EuronewsPL.pl
+Nazwa: Eurosport 1 HD | ID: Eurosport1.pl
+Nazwa: Eurosport 2 HD | ID: Eurosport2.pl
+Nazwa: Eurosport 3 | ID: Eurosport3.pl
+Nazwa: Eurosport 4 | ID: Eurosport4.pl
+Nazwa: Ewa gotuje | ID: EwaGotuje.pl
+Nazwa: Extreme Sports | ID: ExtremeSports.pl
+Nazwa: FILMAX Cafe | ID: FilmaxCafe.pl
+Nazwa: FX Comedy HD | ID: FxComedy.pl
+Nazwa: FX HD | ID: Fx.pl
+Nazwa: Fashion TV HD | ID: FashionTv.pl
+Nazwa: FashionBox HD | ID: FashionBox.pl
+Nazwa: FashionTV UHD | ID: FashionTV4K.pl
+Nazwa: Fast And FunBox HD | ID: FastAndFunBox.pl
+Nazwa: FighTime.pl | ID: FighTime.pl
+Nazwa: FightBox | ID: FightBox.pl
+Nazwa: FightKlub | ID: FightKlub.pl
+Nazwa: FilmBox Action | ID: FilmboxAction.pl
+Nazwa: FilmBox Arthouse HD | ID: FilmboxArthouse.pl
+Nazwa: FilmBox Extra HD | ID: FilmboxExtra.pl
+Nazwa: FilmBox Family | ID: FilmboxFamily.pl
+Nazwa: FilmBox Premium HD | ID: FilmboxPremium.pl
+Nazwa: Filmax | ID: Filmax.pl
+Nazwa: Fokus TV HD | ID: FokusTv.pl
+Nazwa: Food Network HD | ID: FoodNetwork.pl
+Nazwa: France 2 | ID: France2.pl
+Nazwa: France 24 HD | ID: France24_FR.pl
+Nazwa: France 24 HD - EN | ID: France24_EN.pl
+Nazwa: France 3 | ID: France3.pl
+Nazwa: France 4 | ID: France4.pl
+Nazwa: France 5 | ID: France5.pl
+Nazwa: Freedom | ID: Freedom.pl
+Nazwa: FunBox UHD | ID: FunBox4K.pl
+Nazwa: Gametoon HD | ID: Gametoon.pl
+Nazwa: Ginx eSports TV HD | ID: GinxEsportsTv.pl
+Nazwa: Glina TV | ID: GlinaTv.pl
+Nazwa: Gliniarze | ID: Gliniarze.pl
+Nazwa: God TV | ID: GodTv.pl
+Nazwa: Golf Zone | ID: GolfZone.pl
+Nazwa: Grjngo - Westerny | ID: GrjngoWesterny.rtv.pl
+Nazwa: HBO HD | ID: HBO.pl
+Nazwa: HBO2 HD | ID: HBO2.pl
+Nazwa: HBO3 HD | ID: HBO3.pl
+Nazwa: HGTV | ID: HGTV.pl
+Nazwa: HISTORY | ID: History.pl
+Nazwa: HISTORY2 HD | ID: History2.pl
+Nazwa: HOME 4K | ID: Home4K.pl
+Nazwa: HOME TV HD | ID: HomeTv.pl
+Nazwa: Hustler HD | ID: Hustler.pl
+Nazwa: ID HD | ID: ID.pl
+Nazwa: INULTRA | ID: InUltra.pl
+Nazwa: JAZZ HD | ID: Jazz.pl
+Nazwa: JUNIOR MUSIC HD | ID: JuniorMusic.pl
+Nazwa: Junior Channel | ID: JuniorChannel.pl
+Nazwa: KBS World HD | ID: KBSWorld.pl
+Nazwa: Kabaret TV | ID: KabaretTV.pl
+Nazwa: Kabarety | ID: Kabarety.pl
+Nazwa: Kapitan Bomba | ID: KapitanBomba.pl
+Nazwa: Karuzela Śmiechu | ID: KaruzelaSmiechu.pl
+Nazwa: Kino Polska | ID: KinoPolska.pl
+Nazwa: Kino Polska Muzyka | ID: KinoPolskaMuzyka.pl
+Nazwa: Kino TV HD | ID: KinoTv.pl
+Nazwa: Komedie | ID: Komedie.pl
+Nazwa: LRT Lituanica | ID: LRTLituanica.pl
+Nazwa: LangLab | ID: LangLab.pl
+Nazwa: LingoToons | ID: LingoToons.pl
+Nazwa: Love Nature 4K | ID: LoveNature4K.pl
+Nazwa: Lubuska TV Horyzont | ID: LubuskaTVHoryzont.pl
+Nazwa: MEZZO | ID: Mezzo.pl
+Nazwa: MIXTAPE HD | ID: MixTape.pl
+Nazwa: MTV Germany | ID: MTVGermany.pl
+Nazwa: MTV Polska HD | ID: MTV.pl
+Nazwa: MacGyver | ID: MacGyver.pl
+Nazwa: Magnum | ID: Magnum.pl
+Nazwa: Mango | ID: Mango.pl
+Nazwa: Metro | ID: Metro.pl
+Nazwa: Mezzo Live HD | ID: MezzoLive.pl
+Nazwa: MiniMini+ HD | ID: MiniMini.pl
+Nazwa: Miodowe Lata | ID: MiodoweLata.pl
+Nazwa: Moconomy | ID: Moconomy.rtv.pl
+Nazwa: Motowizja TV | ID: Motowizja.pl
+Nazwa: Museum 4K | ID: Museum4K.pl
+Nazwa: Music 00's | ID: Music00s.pl
+Nazwa: Music 80's | ID: Music80s.pl
+Nazwa: Music 90's | ID: Music90s.pl
+Nazwa: Music Box | ID: MusicBox.pl
+Nazwa: Music Box 00s | ID: MusicBox00s.pl
+Nazwa: Music Box 80s | ID: MusicBox80s.pl
+Nazwa: Music Box 90s | ID: MusicBox90s.pl
+Nazwa: Music Box Classic | ID: MusicBoxClassic.pl
+Nazwa: Music Box Dance | ID: MusicBoxDance.pl
+Nazwa: Music Box Hits | ID: MusicBoxHits.pl
+Nazwa: Music Box Sexy | ID: MusicBoxSexy.pl
+Nazwa: Music Club | ID: MusicClub.pl
+Nazwa: Music Hits | ID: MusicHits.pl
+Nazwa: Music Live HD | ID: MusicLive.pl
+Nazwa: MyZen 4K | ID: MyZen4K.pl
+Nazwa: NHK World TV | ID: NHKWorldTv.pl
+Nazwa: NUTA GOLD | ID: NutaGold.pl
+Nazwa: Na Południe | ID: NaPoludnie.pl
+Nazwa: Na Wariackich Papierach | ID: NaWariackichPapierach.pl
+Nazwa: Nasz nowy dom | ID: NaszNowyDom.pl
+Nazwa: Nat Geo People | ID: NatGeoPeople.pl
+Nazwa: National Geographic | ID: NationalGeographic.pl
+Nazwa: National Geographic Wild HD | ID: NatGeoWild.pl
+Nazwa: Nautical Channel | ID: NauticalChannel.pl
+Nazwa: New TV | ID: NewTv.pl
+Nazwa: News24 | ID: News24.pl
+Nazwa: Nick Jr | ID: NickJr.pl
+Nazwa: Nickelodeon | ID: Nickelodeon.pl
+Nazwa: Nicktoons | ID: TeenNick.pl
+Nazwa: Nicktoons HD Poland | ID: Nicktoons.pl
+Nazwa: Niebezpieczna Zatoka | ID: NiebezpiecznaZatoka.pl
+Nazwa: Nieustraszony | ID: Nieustraszony.pl
+Nazwa: Novela tv HD | ID: NovelaTv.pl
+Nazwa: Novelas+ | ID: Novelas+.pl
+Nazwa: Novelas+1 | ID: Novelas+1.pl
+Nazwa: Nowa TV HD | ID: NowaTv.pl
+Nazwa: Nuta.TV HD | ID: NutaTv.pl
+Nazwa: POLSAT 1 | ID: Polsat1.pl
+Nazwa: PROART HD | ID: ProartHD.pl
+Nazwa: PULS 2 HD | ID: Puls2.pl
+Nazwa: Pamiętniki z wakacji | ID: PamietnikiZWakacji.pl
+Nazwa: Paramount Network | ID: ParamountNetwork.pl
+Nazwa: Pixel TV | ID: PixelTV.pl
+Nazwa: Planete+ HD | ID: Planete.pl
+Nazwa: Playboy TV | ID: PlayboyTv.pl
+Nazwa: Pogoda24 TV | ID: Pogoda24Tv.pl
+Nazwa: Policjanci z Miami | ID: PolicjanciZMiami.pl
+Nazwa: Policjantki i Policjanci | ID: PolicjantkiIPolicjanci.pl
+Nazwa: Polo TV HD | ID: PoloTv.pl
+Nazwa: Polonia 1 | ID: Polonia1.pl
+Nazwa: Polsat 2 | ID: Polsat2.pl
+Nazwa: Polsat Cafe | ID: PolsatCafe.pl
+Nazwa: Polsat Comedy Central Extra | ID: PolsatComedyCentralExtra.pl
+Nazwa: Polsat Doku | ID: PolsatDoku.pl
+Nazwa: Polsat Film | ID: PolsatFilm.pl
+Nazwa: Polsat Film 2 | ID: PolsatFilm2.pl
+Nazwa: Polsat Games | ID: PolsatGames.pl
+Nazwa: Polsat HD | ID: Polsat.pl
+Nazwa: Polsat JimJam | ID: PolsatJimJam.pl
+Nazwa: Polsat Music | ID: PolsatMusic.pl
+Nazwa: Polsat News | ID: PolsatNews.pl
+Nazwa: Polsat News 2 | ID: PolsatNews2.pl
+Nazwa: Polsat News Polityka | ID: PolsatNewsPolityka.pl
+Nazwa: Polsat Play | ID: PolsatPlay.pl
+Nazwa: Polsat Reality | ID: PolsatReality.pl
+Nazwa: Polsat Rodzina | ID: PolsatRodzina.pl
+Nazwa: Polsat Seriale | ID: PolsatSeriale.pl
+Nazwa: Polsat Sport 1 | ID: PolsatSport1.pl
+Nazwa: Polsat Sport 2 | ID: PolsatSport2.pl
+Nazwa: Polsat Sport 3 | ID: PolsatSport3.pl
+Nazwa: Polsat Sport Extra 1 | ID: PolsatSportExtra1.pl
+Nazwa: Polsat Sport Extra 2 | ID: PolsatSportExtra2.pl
+Nazwa: Polsat Sport Extra 3 | ID: PolsatSportExtra3.pl
+Nazwa: Polsat Sport Extra 4 | ID: PolsatSportExtra4.pl
+Nazwa: Polsat Sport Fight HD | ID: PolsatSportFight.pl
+Nazwa: Polsat Sport Premium 1 | ID: PolsatSportPremium1.pl
+Nazwa: Polsat Sport Premium 2 | ID: PolsatSportPremium2.pl
+Nazwa: Polsat Viasat Explore HD | ID: PolsatViasatExplorer.pl
+Nazwa: Polsat Viasat History HD | ID: PolsatViasatHistory.pl
+Nazwa: Polsat Viasat Nature HD | ID: PolsatViasatNature.pl
+Nazwa: Polsat X | ID: PolsatX.pl
+Nazwa: Power TV HD | ID: PowerTv.pl
+Nazwa: Prime Fight HD | ID: PrimeFight.pl
+Nazwa: Private TV HD | ID: PrivateTv.pl
+Nazwa: Qwest TV | ID: QwestTv.rtv.pl
+Nazwa: RAI 1 | ID: Rai1.pl
+Nazwa: RAI 2 | ID: Rai2.pl
+Nazwa: RTL 7 | ID: RTL7.pl
+Nazwa: Rai 3 | ID: Rai3.pl
+Nazwa: Rai 4 | ID: Rai4.pl
+Nazwa: Rai 5 | ID: Rai5.pl
+Nazwa: Rai News 24 | ID: RaiNews24.pl
+Nazwa: Red Carpet TV International | ID: RedCarpetTvInternational.rtv.pl
+Nazwa: Redlight | ID: Redlight.pl
+Nazwa: Remonty TV | ID: RemontyTV.pl
+Nazwa: Robin z Sherwood | ID: RobinzSherwood.pl
+Nazwa: Romance TV HD | ID: RomanceTv.pl
+Nazwa: Royalworld | ID: RoyalWorld.rtv.pl
+Nazwa: SBN | ID: SBN.pl
+Nazwa: STARS.TV HD | ID: StarsTv.pl
+Nazwa: STOPKLATKA HD | ID: Stopklatka.pl
+Nazwa: SciFi | ID: SciFi.pl
+Nazwa: SciFi Channel | ID: SciFiChannel.pl
+Nazwa: SeaQuest | ID: SeaQuest.pl
+Nazwa: Sejm RP | ID: SejmRP.pl
+Nazwa: Show TV | ID: ShowTv.pl
+Nazwa: Sky News | ID: SkyNews.pl
+Nazwa: SkyShowtime 1 | ID: SkyShowtime1.pl
+Nazwa: SkyShowtime 2 | ID: SkyShowtime2.pl
+Nazwa: Sportklub HD | ID: SportKlub.pl
+Nazwa: Sportowa.TV HD | ID: SportowaTv.pl
+Nazwa: Sprawiedliwi - Wydział Kryminalny | ID: SprawiedliwiWydzialKryminalny.pl
+Nazwa: Star Trek | ID: StarTrek.pl
+Nazwa: Stargaze TV | ID: StargazeTV.pl
+Nazwa: Stingray CMusic | ID: StingrayCMusic.pl
+Nazwa: Stingray Classica HD | ID: StingrayClassica.pl
+Nazwa: Stingray DJAZZ HD | ID: StingrayDJazz.pl
+Nazwa: Stingray Festival 4K | ID: StingrayFestival4K.pl
+Nazwa: Stingray Juicebox HD | ID: StingrayJuicebox.pl
+Nazwa: Stingray Loud HD | ID: StingrayLoud.pl
+Nazwa: Stingray Retro | ID: StingrayRetro.pl
+Nazwa: Stingray iConcerts HD | ID: StingrayiConcerts.pl
+Nazwa: StudioMED TV | ID: StudioMedTv.pl
+Nazwa: Sundance TV HD | ID: SundanceTv.pl
+Nazwa: Super Express | ID: SuperExpress.pl
+Nazwa: Super Polsat | ID: SuperPolsat.pl
+Nazwa: Szlagier TV | ID: SzlagierTv.pl
+Nazwa: TBN Polska HD | ID: TBNPolska.pl
+Nazwa: TLC | ID: TLC.pl
+Nazwa: TRT World HD | ID: TRTWorld.pl
+Nazwa: TTV HD | ID: TTV.pl
+Nazwa: TV 4 HD | ID: TV4.pl
+Nazwa: TV 6 HD | ID: TV6.pl
+Nazwa: TV ASTA HD | ID: TvAsta.pl
+Nazwa: TV Bolesławiec | ID: TVBoleslawiec.pl
+Nazwa: TV MN | ID: TVMN.pl
+Nazwa: TV Okazje HD | ID: TvOkazje.pl
+Nazwa: TV Puls HD | ID: TvPuls.pl
+Nazwa: TV Regio | ID: TVRegio.pl
+Nazwa: TV Regionalna | ID: TVRegionalna.pl
+Nazwa: TV Relax | ID: TVRelax.pl
+Nazwa: TV Republika | ID: Republika.pl
+Nazwa: TV SM Grudziądz | ID: TVSM.pl
+Nazwa: TV Toruń | ID: TVTorun.pl
+Nazwa: TV Trwam | ID: TvTrwam.pl
+Nazwa: TV5 Monde Europe | ID: TV5Monde.pl
+Nazwa: TVC - NTL Radomsko | ID: TVC.pl
+Nazwa: TVC Reality | ID: TVCReality.pl
+Nazwa: TVC Super | ID: TVCSuper.pl
+Nazwa: TVN 24 | ID: TVN24.pl
+Nazwa: TVN 7 HD | ID: TVN7.pl
+Nazwa: TVN Brzydula | ID: tvnBrzydula.pl
+Nazwa: TVN Czas Na Ślub | ID: tvnCzasNaSlub.pl
+Nazwa: TVN Fabula | ID: TVNFabula.pl
+Nazwa: TVN HD | ID: TVN.pl
+Nazwa: TVN Kryminalnie | ID: tvnKryminalnie.pl
+Nazwa: TVN Kulinarne Podróże | ID: tvnKulinarnePodroze.pl
+Nazwa: TVN Kultowe Seriale | ID: tvnKultoweSeriale.pl
+Nazwa: TVN Mam Talent | ID: tvnMamTalent.pl
+Nazwa: TVN Milionerzy | ID: tvnMilionerzy.pl
+Nazwa: TVN Momenty Prawdy | ID: tvnMomentyPrawdy.pl
+Nazwa: TVN Moto | ID: tvnMoto.pl
+Nazwa: TVN Patrol | ID: tvnPatrol.pl
+Nazwa: TVN Pora Na Show | ID: tvnPoraNaShow.pl
+Nazwa: TVN Prawo i Życie | ID: tvnPrawoiZycie.pl
+Nazwa: TVN Rajska Miłość | ID: tvnRajskaMilosc.pl
+Nazwa: TVN Rewolucje w Kuchni | ID: tvnRewolucjewKuchni.pl
+Nazwa: TVN Seriale o Kobietach | ID: tvnSerialeoKobietach.pl
+Nazwa: TVN Style | ID: TVNStyle.pl
+Nazwa: TVN Szkoła Życia | ID: tvnSzkolaZycia.pl
+Nazwa: TVN Szpitalne Historie | ID: tvnSzpitalneHistorie.pl
+Nazwa: TVN Talk Show | ID: tvnTalkShow.pl
+Nazwa: TVN Telenowele | ID: tvnTelenowele.pl
+Nazwa: TVN Turbo | ID: TVNTurbo.pl
+Nazwa: TVN Usterka | ID: tvnUsterka.pl
+Nazwa: TVN W Domu | ID: tvnWDomu.pl
+Nazwa: TVN Życie Jak w Bajce | ID: tvnZycieJakwBajce.pl
+Nazwa: TVN24 BiS HD | ID: TVN24BiS.pl
+Nazwa: TVP 1 HD | ID: TVP1.pl
+Nazwa: TVP 2 HD | ID: TVP2.pl
+Nazwa: TVP 3 Białystok | ID: TVP3Bialystok.pl
+Nazwa: TVP 3 Gdańsk | ID: TVP3Gdansk.pl
+Nazwa: TVP 3 Gorzów Wielkopolski | ID: TVP3GorzowWlkp.pl
+Nazwa: TVP 3 Kraków | ID: TVP3Krakow.pl
+Nazwa: TVP 3 Poznań | ID: TVP3Poznan.pl
+Nazwa: TVP 3 Rzeszów | ID: TVP3Rzeszow.pl
+Nazwa: TVP 3 Warszawa | ID: TVP3Warszawa.pl
+Nazwa: TVP 3 Wrocław | ID: TVP3Wroclaw.pl
+Nazwa: TVP 3 Łódź | ID: TVP3Lodz.pl
+Nazwa: TVP Barwy Szczęścia | ID: TVPBarwySzczescia.pl
+Nazwa: TVP Dokument | ID: TVPDokument.pl
+Nazwa: TVP HD | ID: TVPHD.pl
+Nazwa: TVP Historia | ID: TVPHistoria.pl
+Nazwa: TVP Historia2 | ID: TVPHistoria2.pl
+Nazwa: TVP Info HD | ID: TVPInfo.pl
+Nazwa: TVP Klan | ID: TVPKlan.pl
+Nazwa: TVP Kobieta | ID: TVPKobieta.pl
+Nazwa: TVP Kryminały | ID: TVPKryminaly.pl
+Nazwa: TVP Kultura 2 | ID: TVPKultura2.pl
+Nazwa: TVP Kultura HD | ID: TVPKultura.pl
+Nazwa: TVP Miłość | ID: TVPMilosc.pl
+Nazwa: TVP NA DOBRE I NA ZŁE | ID: TVPNaDobreINaZle.pl
+Nazwa: TVP Nauka HD | ID: TVPNauka.pl
+Nazwa: TVP Polonia HD | ID: TVPPolonia.pl
+Nazwa: TVP Rozrywka | ID: TVPRozrywka.pl
+Nazwa: TVP Seriale | ID: TVPSeriale.pl
+Nazwa: TVP Sport | ID: TVPSport.pl
+Nazwa: TVP Wilno | ID: TVPWilno.pl
+Nazwa: TVP World | ID: TVPWorld.pl
+Nazwa: TVP-ABC | ID: TVPABC.pl
+Nazwa: TVP3Bydgoszcz | ID: TVP3Bydgoszcz.pl
+Nazwa: TVP3Katowice | ID: TVP3Katowice.pl
+Nazwa: TVP3Kielce | ID: TVP3Kielce.pl
+Nazwa: TVP3Lublin | ID: TVP3Lublin.pl
+Nazwa: TVP3Olsztyn | ID: TVP3Olsztyn.pl
+Nazwa: TVP3Opole | ID: TVP3Opole.pl
+Nazwa: TVP3Szczecin | ID: TVP3Szczecin.pl
+Nazwa: TVS (HD) | ID: TVS.pl
+Nazwa: TVT | ID: TVT.pl
+Nazwa: Tele 5 | ID: Tele5.pl
+Nazwa: Telewizja Kłodzka | ID: TvKlodzka.pl
+Nazwa: Telewizja Pomerania | ID: TvPomerania.pl
+Nazwa: Telewizja Republika | ID: TelewizjaRepublika.pl
+Nazwa: That's 70s | ID: Thats70s.rtv.pl
+Nazwa: That's 80s | ID: Thats80s.rtv.pl
+Nazwa: That's 90s00s | ID: Thats90s00s.rtv.pl
+Nazwa: That's Rock | ID: ThatsRock.rtv.pl
+Nazwa: TinyTeen | ID: TinyTeen.pl
+Nazwa: Top Canal | ID: TopCanal.pl
+Nazwa: Top Kids HD | ID: TopKids.pl
+Nazwa: Top Movies Polska | ID: TopMovies.rtv.pl
+Nazwa: Toya | ID: Toya.pl
+Nazwa: Trace Urban | ID: TraceUrban.rtv.pl
+Nazwa: Travel Channel HD | ID: TravelChannel.pl
+Nazwa: Travelxp | ID: Travelxp.rtv.pl
+Nazwa: Travelxp 4K | ID: TravelXP4K.pl
+Nazwa: Travelxp HD | ID: TravelXP.pl
+Nazwa: Trudne sprawy | ID: TrudneSprawy.pl
+Nazwa: Tv Biznesowa | ID: TvBiznesowa.pl
+Nazwa: Twoja Telewizja Morska | ID: TwojaTelewizjaMorska.pl
+Nazwa: Twoja.TV | ID: TwojaTv.pl
+Nazwa: ULTRA TV 4K | ID: UltraTv4K.pl
+Nazwa: Ucieczka w Kosmos | ID: UcieczkaWKosmos.pl
+Nazwa: V90 | ID: V90.pl
+Nazwa: VIVA Russia | ID: VIVARussia.pl
+Nazwa: VOD 205 | ID: VOD205.pl
+Nazwa: VOD 206 | ID: VOD206.pl
+Nazwa: VOD 207 | ID: VOD207.pl
+Nazwa: VOD 208 | ID: VOD208.pl
+Nazwa: VOX Music TV | ID: VoxMusicTv.pl
+Nazwa: Vantage Dance | ID: VantageDance.pl
+Nazwa: Vantage Music | ID: VantageMusic.pl
+Nazwa: Vantage Rock | ID: VantageRock.pl
+Nazwa: ViDoc TV | ID: ViDocTv1.pl
+Nazwa: Viasat Explore Classic | ID: ViasatExploreClassic.rtv.pl
+Nazwa: Viasat True Crime | ID: ViasatTrueCrime.pl
+Nazwa: Vivid RED HD | ID: VividRed.pl
+Nazwa: Vivid Touch | ID: VividTouch.pl
+Nazwa: WP HD | ID: WP.pl
+Nazwa: WTK | ID: WTK.pl
+Nazwa: Warner TV HD | ID: WarnerTv.pl
+Nazwa: Water Planet | ID: WaterPlanet.pl
+Nazwa: Wedotv Auta | ID: WedotvAuta.rtv.pl
+Nazwa: Wielka Rozrywka | ID: WielkaRozrywka.pl
+Nazwa: Wielkie festiwale | ID: WielkieFestiwale.pl
+Nazwa: Wizja TV | ID: WizjaTv.pl
+Nazwa: Wydarzenia 24 | ID: Wydarzenia24.pl
+Nazwa: Włatcy móch | ID: WlatcyMoch.pl
+Nazwa: XTREME TV | ID: XtremeTv.pl
+Nazwa: XXL | ID: XXL.pl
+Nazwa: ZOOM TV HD | ID: ZoomTv.pl
+Nazwa: Zbrodnie | ID: Zbrodnie.pl
+Nazwa: Ziemia Ostatnie Starcie | ID: ZiemiaOstatnieStarcie.pl
+Nazwa: disco-polo-music | ID: DiscoPoloMusic.pl
+Nazwa: dlaCiebie.tv | ID: DlaCiebieTv.pl
+Nazwa: iTVN | ID: iTVN.pl
+Nazwa: iTVN Extra | ID: iTVNExtra.pl
+Nazwa: sferatv.pl | ID: SferaTv.pl
+Nazwa: teleTOON+ HD | ID: TeleToon.pl
+Nazwa: tvregionalna.pl | ID: tvregionalna.pl
+Nazwa: wPolsce.pl | ID: wPolsce.pl
+Nazwa: wPolsce24 | ID: wPolsce24.pl
+Nazwa: Ślad | ID: Slad.pl
+Nazwa: Świat według Kiepskich | ID: SwiatWedlugKiepskich.pl
+Nazwa: Życiowe historie | ID: ZycioweHistorie.pl
+
